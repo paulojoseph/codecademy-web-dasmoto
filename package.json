@@ -1,9 +1,4 @@
 {
-    "scripts": {
-        "dev": "vite"
-    }
-    
-     {
-  "startCommand": "npm run dev"
-    }
+  "private": true,
+  "workspaces": ["sdk", "turbo-cdn", "turbo-registry-sync", "turbo-resolver"]
 }
