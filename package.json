@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "dev": "vite"
+        "dev": "vite",
         "startCommand": "npm run dev"
     }
 }
