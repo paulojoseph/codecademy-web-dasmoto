@@ -2,10 +2,4 @@
     "scripts": {
         "dev": "vite"
     }
-  
-  ?terminal=dev
-  
-  {
-  "startCommand": "npm run dev"
-  }
 }
