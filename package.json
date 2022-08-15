@@ -1,6 +1,7 @@
 {
     "scripts": {
         "dev": "vite"
-        ?terminal=dev
     }
+    
+     ?terminal=dev
 }
