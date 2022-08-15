@@ -1,7 +1,11 @@
 {
-  "name": "paulojoseph.github",
-  "version": "0.0.0",
-  "private": true,
-  "description": "A starter web page",
-  "repository": "https://github.com/paulojoseph/codecademy-web-dasmoto",
+    "scripts": {
+        "dev": "vite"
+    }
+  
+  ?terminal=dev
+  
+  {
+  "startCommand": "npm run dev"
+  }
 }
